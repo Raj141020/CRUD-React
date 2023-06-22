@@ -9,6 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "sweetalert2": "^11.7.12",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "CRUD application in which admin can login and add deatils of employees",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj141020/CRUD-React.git"
+  },
+  "author": "Raj Nagwanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj141020/CRUD-React/issues"
+  },
+  "homepage": "https://github.com/Raj141020/CRUD-React#readme"
 }
